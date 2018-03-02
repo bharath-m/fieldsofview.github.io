@@ -33,7 +33,7 @@ layout: default-layout
               </p>
             </div>
 
-            {% for category in page.categories%}
+            {% for category in page.categories %}
             <div class="category-desc" id="{{category.ide}}-content" style="display: none">
               <p class="simple-content">{{category.description}}</p>
             </div>
@@ -42,7 +42,7 @@ layout: default-layout
             <span class="italic"><a href="mailto:info@fieldsofview.in?Subject=Funding {{page.title}} at FoV" style="font-size:14pt">Fund a project.</a></span>
         </div>
         <div class="col-md-1" style="border-bottom: 1.5px solid #939393; margin-top:24px;">
-          {% include share.html%}
+          {% include share.html %}
         </div>
     </div>
 </div>
