@@ -13,5 +13,6 @@ img1: /img/jrf-img-1.jpg
 img2: /img/jrf-img-2.jpg
 ide: joint-road-forward
 categories: project
+thread: Policy Lab
 tag: game simulation
 ---

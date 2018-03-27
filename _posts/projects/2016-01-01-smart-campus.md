@@ -13,5 +13,6 @@ collaborations: IIIT-Bangalore
 img1: /img/smart-campus-img-1.jpg
 ide: smart-campus
 categories: project
+thread: Policy Lab
 tag: simulation
 ---

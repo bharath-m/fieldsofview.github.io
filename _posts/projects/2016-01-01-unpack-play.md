@@ -11,5 +11,6 @@ img1: /img/unpackplay-img-1.png
 img2: /img/unpackplay-img-2.jpg
 ide: unpack-play
 categories: project
+thread: Policy Lab, Policy in Play
 tag: wscourses
 ---

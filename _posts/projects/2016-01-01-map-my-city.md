@@ -17,5 +17,6 @@ img2: /img/map-my-city-img-2.jpg
 play: Play Map my City.
 ide: map-my-city
 categories: project
+thread: Policy Lab, School of Policy
 tag: game
 ---

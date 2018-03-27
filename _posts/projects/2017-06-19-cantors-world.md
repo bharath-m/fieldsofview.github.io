@@ -16,5 +16,6 @@ img1: /img/cantors-world-img-1.png
 img2: /img/cantors-world-img-2.png
 ide: cantors-world
 categories: project
+thread: School of Policy
 tag: game
 ---
