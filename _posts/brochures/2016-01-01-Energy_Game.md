@@ -6,4 +6,5 @@ ide: Energy_Game
 tag: brochures
 categories: brochures
 docurl: /brochures/Indian_energy_game.pdf
+rank: 9
 ---

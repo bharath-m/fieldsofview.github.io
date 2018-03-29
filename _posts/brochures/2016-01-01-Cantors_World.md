@@ -6,4 +6,5 @@ ide: cantors world
 tag: brochures
 categories: brochures
 docurl: /brochures/Cantors_world.pdf
+rank: 13
 ---

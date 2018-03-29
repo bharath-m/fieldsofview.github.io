@@ -6,5 +6,6 @@ ide: Smart_Campus
 tag: brochures
 categories: brochures
 docurl: /brochures/Smart_campus.pdf
+rank: 6
 ---
     

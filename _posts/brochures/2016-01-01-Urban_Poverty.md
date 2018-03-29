@@ -6,5 +6,6 @@ ide: Urban_Poverty
 tag: brochures
 categories: brochures
 docurl: /brochures/Urban_poverty.pdf
+rank: 7
 ---
     
